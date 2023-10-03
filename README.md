@@ -1,12 +1,12 @@
-## Are you looking for a production-ready ecommerce & HRMS app?
+## Are you looking for a production-ready e-commerce & HRMS app?
 
-If you're looking for a production-ready ecommerce & HRMS app, check out [KetraMart](https://ketramart.com/) & [Ketra HRMS](https://hrms.ketramart.com/).
+If you're looking for a production-ready e-commerce & HRMS app, check out [KetraMart](https://ketramart.com/) & [Ketra HRMS](https://hrms.ketramart.com/).
 
 
 ## Complete E-commerce website in  Laravel 10
 
 
-#### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
+#### Setup video: https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
 
 #### Demo video :
 https://youtu.be/c5a_wrvJSJo
